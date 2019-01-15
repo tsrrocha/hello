@@ -28,4 +28,7 @@ Considerando que você, utilizando o console de comandos do linux, esteja dentro
 
 **Observação:** Sempre que você alterar qualquer informação nos arquivos do projeto você deverá recompactar o código-fonte utilizando os comandos acima.
 
-[URL do Projeto](https://github.com/tsrrocha/hello/tree/master "Hello")
+[URL do projeto Hello](https://github.com/tsrrocha/hello/tree/master "Hello")
+
+Para clonar o repositório basta executar o seguinte comando:
+`$ git clone https://github.com/tsrrocha/hello.git`
