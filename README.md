@@ -46,10 +46,12 @@ Em seguida, definimos as permissões deste arquivo com o comando:<br/>
 `$ install -m 0755 hello ${D}${bindir}`
 
 ---
-<br/>
-[URL do projeto Hello](https://github.com/tsrrocha/hello/tree/master "Hello")
+
 
 Para clonar o repositório basta executar o seguinte comando:
 `$ git clone https://github.com/tsrrocha/hello.git`
 
 ---
+
+Desenvolvedor: **Tiago Sousa Rocha** < <tsrrocha@gmail.com> > <br/>
+Whatsapp: **(83) 9 8111-5793**
