@@ -15,6 +15,8 @@ Este aplicativo apenas escreve na saída padrão ***stdout*** uma simples mensag
   +  **hello-1.0**<br/>
   |  *hello.c*<br/>
   |  *hello.h*<br/>
+  |  *helloprint.c*<br/>
+  |  *helloprint.h*<br/>
   |  *hello-1.0.tar.gz*<br/>
   
 ### Como gerar o código-fonte compactado?
