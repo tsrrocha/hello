@@ -14,7 +14,7 @@ Este aplicativo apenas escreve na saída padrão ***stdout*** uma simples mensag
 ---
 
 ### Árvore de arquivos do projeto:
-+ **hello**<br />
++ **[hello](https://github.com/tsrrocha/hello)**<br />
   |  *hello_1.0.bb*<br/>
   +  **hello-1.0**<br/>
   |  *hello.c*<br/>
